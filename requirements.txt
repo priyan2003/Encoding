@@ -13,3 +13,4 @@ imbalanced-learn
 ipykernel
 langchain-google-genai
 langchain-openai
+nltk
